@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+     
+	<g style="font-size:75; font-family:Century Schoolbook L,serif">
+		<text x="25" y="115" fill="#1E90FF">J</text>
+		<line x1="75" y1="20" x2="75" y2="130" style="stroke:black; stroke-width:1" />
+		<text x="85" y="80" fill="darkblue">V</text>
+	</g>
+</svg>
